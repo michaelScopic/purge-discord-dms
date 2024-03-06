@@ -9,6 +9,7 @@ This repo will not see many updates (if any), but bug reports are still welcome.
 
 - A Windows/MacOS/Linux system with >= Python 3.9 (written and tested on at least 3.11).
 - Python pip installed (look up how to install it if you don't already have it).
+- Python-tk installed.
 - pyautogui installed:
 ```bash
 pip install pyautogui
