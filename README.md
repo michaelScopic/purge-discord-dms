@@ -5,6 +5,10 @@ This repo will not see many updates (if any), but bug reports are still welcome.
 
 ### !! SEE TIPS SECTION BEFORE RUNNING THE SCRIPT !!
 
+## TODO
+
+Considering on making the script as a standalone executable for Windows (Linux/Mac support will follow after)
+
 ## Requirements 
 
 - A Windows/MacOS/Linux system with >= Python 3.9 (written and tested on at least 3.11).
