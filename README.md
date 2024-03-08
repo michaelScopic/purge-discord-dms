@@ -7,14 +7,24 @@ This repo will not see many updates (if any), but bug reports are still welcome.
 
 ## TODO
 
-Considering on making the script as a standalone executable for Windows (Linux/Mac support will follow after)
+Considering making the script as a standalone executable for Windows (Linux/Mac support will follow after)
 
 ## Requirements 
 
 - A Windows/MacOS/Linux system with >= Python 3.9 (written and tested on at least 3.11).
 - Python pip installed (look up how to install it if you don't already have it).
 - Python-tk installed.
-- pyautogui installed:
+```bash
+# Ubuntu/Debian
+sudo apt install python-tk
+
+# Arch Linux
+sudo pacman -S tk
+
+# Fedora/RHEL
+sudo dnf install python-tk
+```
+- PyAutoGUI installed:
 ```bash
 pip install pyautogui
 ```
