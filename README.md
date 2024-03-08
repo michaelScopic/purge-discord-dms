@@ -29,7 +29,7 @@ ___`Bring your cursor to the **TOP LEFT** of your screen and wait 1-3 seconds an
 
 __!! PLEASE READ THESE CAREFULLY, FAILURE TO DO SO MAY END UP IN PURGING MESSAGES IN THE WRONG CHANNEL/DM. !!__
 
-To download the script, you can either clone this repo in the command line with `git` or download it as a [.zip file]() and place the `purge-discord-dms.py` file into your Downloads folder.
+To download the script, you can either clone this repo in the command line with `git` or [download it as a .zip file](https://github.com/michaelScopic/purge-discord-dms/archive/refs/heads/main.zip) and place the `purge-discord-dms.py` file into your Downloads folder.
 
 **SUPER IMPORTANT: In Discord, go to the channel/DM you want to purge.**
 
