@@ -8,7 +8,7 @@ import time
 pyautogui.FAILSAFE = True
 
 # Wait 5 seconds
-pyautogui.alert('STARTING IN 5 SECONDS!')
+pyautogui.alert('STARTING IN 5 SECONDS!\nBring your cursor to the TOP LEFT of your screen to abort this script!')
 time.sleep(5)
 
 ### MAIN FUNCTION ###
