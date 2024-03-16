@@ -79,7 +79,7 @@ If you are using MacOS, press `⌘` + `Spacebar` (⌘ is the Command key), and s
 
 If you placed my script in the Downloads folder, type this in to change directory to `Downloads/`:
 ```sh
-cd ~/Downloads`
+cd ~/Downloads
 ```
 
 Then type this command and hit `Enter`:
