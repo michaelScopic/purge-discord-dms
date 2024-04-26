@@ -35,6 +35,10 @@ From my usage, **this script can get buggy if a user presses certain keys/mouse 
 
 Go into the channel/DM that you want to purge and then hit `Ctrl` + `H` to hide channels so that there's no way you could click on another DM, and then start the script.
 
+### Virtual machines
+
+I would also highly recommend you run this in a virtual machine because the script completely takes over your keyboard, so you must wait until everything is deleted. I recommend getting VirtualBox with a Linux Mint/Ubuntu (or any distro you like), and then follow the instructions below.
+
 ### TO KILL THE SCRIPT
 
 ___`Bring your cursor to the **TOP LEFT** of your screen and wait 1-3 seconds and the script will automatically quit.`___
